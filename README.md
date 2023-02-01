@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadilmeymon&label=Profile%20views&color=0e75b6&style=flat" alt="aadilmeymon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadilmeymon" alt="aadilmeymon" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aadilmeymonn" target="blank"><img src="https://img.shields.io/twitter/follow/aadilmeymonn?logo=twitter&style=for-the-badge" alt="aadilmeymonn" /></a> </p>
 
 - 📫 How to reach me **aadilmemon027@gmail.com**
 
