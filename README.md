@@ -6,11 +6,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aadilmeymonn" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" alt="aadilmeymonn" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aadil-saleem-803848219/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" alt="https://www.linkedin.com/in/aadil-saleem-803848219/" height="30" width="40" /></a>
+<a href="https://twitter.com/aadilmeymonn" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" alt="aadilmeymonn" height="60" width="40" /></a>
+<a href="https://www.linkedin.com/in/aadil-saleem-803848219/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" alt="https://www.linkedin.com/in/aadil-saleem-803848219/" height="60" width="40" /></a>
 <a href="https://kaggle.com/aadilsaleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aadilsaleem" height="30" width="40" /></a>
-<a href="https://www.facebook.com/aadil.memon.1232/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60597290/173852508-c8fba934-8e29-45c1-940e-ce45af784d37.png" alt="https://www.facebook.com/aadil.memon.1232/" height="30" width="40" /></a>
-<a href="https://instagram.com/aadil.meymon" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" alt="aadil.meymon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aadil.memon.1232/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60597290/173852508-c8fba934-8e29-45c1-940e-ce45af784d37.png" alt="https://www.facebook.com/aadil.memon.1232/" height="60" width="40" /></a>
+<a href="https://instagram.com/aadil.meymon" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" alt="aadil.meymon" height="60" width="40" /></a>
 <a href="https://medium.com/@aadilmeymon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aadilmeymon" height="30" width="40" /></a>
 </p>
 
