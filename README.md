@@ -1,35 +1,44 @@
-CoDiNg RocKs
+Hello Everyone 👋, This is Aadil Memon
+# Your Name
 
-Hello Everyone 👋, I'm Munsif Raza
-A passionate Data Scientist and Self-improvement preacher.
-munsif-raza-t
+[![LinkedIn][linkedin-shield]][linkedin-url] [![GitHub][github-shield]][github-url] [![Email][email-shield]][email-url] [![Website][website-shield]][website-url]
 
-🔭 I’m currently working on Data Science
+A brief introduction about yourself and what you do.
 
-🌱 I’m currently learning Deep Learning and Data Analytics by Google.
+---
 
-💬 Ask me about Data Analysis, Data Science, Machine Learning, Deep learning, Physical fitness, Mental health, and Self-improvement.
+## Skills
 
-📫 How to reach me munsifrazaofficial@gmail.com
+- List your top skills here
+- Add any relevant tech stack that you have experience in
 
-Connect with me:
-munsif_razaa munsifraza munsifraza munsif.raza.5 munsif_razaa
+---
 
-Languages and Tools:
-cplusplus git java mysql opencv pandas photoshop python pytorch scikit_learn seaborn tensorflow
+## Projects
 
-ABOUT ME
+A list of some of your interesting projects, along with the following details:
 
-Welcome to my GitHub profile! I'm Munsif Raza, a data scientist and tech enthusiast with a burning passion for all things machine learning. I have a wealth of experience working with programming languages such as Java and C++, and have honed my skills in the field of machine learning and algorithms. My expertise in these areas have led me to work on some exciting projects that have been both challenging and rewarding.
-But my interests don't stop there, I have always been interested in self-improvement and have spent countless hours researching and experimenting with different ways to improve my physical and mental health and fitness. I believe that a healthy body and mind are crucial for achieving success in any field, and I love to share my knowledge and experience in this area with others.
+- **Project Name**
+  - Description of the project
+  - Technologies used
+  - Preview: ![Project Preview][project-preview]
 
-On my GitHub profile, you will find a variety of projects that showcase my technical skills and passion for data science. From machine learning models to data visualisation projects, I always strive to create innovative and useful projects that can make a real impact. I also actively contribute to open-source projects and believe in the power of collaboration and community.
+---
 
-I am always open to new collaborations and learning opportunities, so don't hesitate to reach out if you have an interesting project or idea that you would like to work on together. Thanks for visiting my profile and I look forward to connecting with you!
+## Contact
 
+- LinkedIn: [Your LinkedIn profile][https://www.linkedin.com/in/aadil-saleem-803848219)]
+- GitHub: [Your GitHub profile][github-url]
+- Email: [Your email address][aadilmemon027@gmail.com]]
 
-munsif-raza-t
+---
 
- munsif-raza-t
-
-munsif-raza-t
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555
+[email-shield]: https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555
+[website-shield]: https://img.shields.io/badge/-Website-black.svg?style=flat-square&logo=globe&colorB=555
+[linkedin-url]: https://linkedin.com/in/yourusername
+[github-url]: https://github.com/yourusername
+[email-url]: mailto:youremail@domain.com
+[website-url]: https://yourwebsite.com
+[project-preview]: path/to/project-preview.png
