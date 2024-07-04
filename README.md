@@ -1,6 +1,5 @@
 <div align="center" width="30">
-  
-  <img 
+
   
 <div align="center">
 
